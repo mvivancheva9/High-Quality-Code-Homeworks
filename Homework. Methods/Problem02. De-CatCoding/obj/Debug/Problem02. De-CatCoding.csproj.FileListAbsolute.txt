@@ -1,0 +1,6 @@
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Methods\Problem02. De-CatCoding\bin\Debug\Problem02.De_CatCoding.exe.config
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Methods\Problem02. De-CatCoding\bin\Debug\Problem02.De_CatCoding.exe
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Methods\Problem02. De-CatCoding\bin\Debug\Problem02.De_CatCoding.pdb
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Methods\Problem02. De-CatCoding\obj\Debug\Problem02. De-CatCoding.csprojResolveAssemblyReference.cache
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Methods\Problem02. De-CatCoding\obj\Debug\Problem02.De_CatCoding.exe
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Methods\Problem02. De-CatCoding\obj\Debug\Problem02.De_CatCoding.pdb

@@ -1,0 +1,8 @@
+D:\Telerik Academy Courses\KPK\Homeworks\Homework1\Problem01. FormattingC\bin\Debug\Problem01.FormattingC.exe.config
+D:\Telerik Academy Courses\KPK\Homeworks\Homework1\Problem01. FormattingC\obj\Debug\Problem01. FormattingC.csprojResolveAssemblyReference.cache
+D:\Telerik Academy Courses\KPK\Homeworks\Homework1\Problem01. FormattingC\bin\Debug\Problem01.FormattingC.exe
+D:\Telerik Academy Courses\KPK\Homeworks\Homework1\Problem01. FormattingC\bin\Debug\Problem01.FormattingC.pdb
+D:\Telerik Academy Courses\KPK\Homeworks\Homework1\Problem01. FormattingC\bin\Debug\PowerCollections.dll
+D:\Telerik Academy Courses\KPK\Homeworks\Homework1\Problem01. FormattingC\bin\Debug\PowerCollections.xml
+D:\Telerik Academy Courses\KPK\Homeworks\Homework1\Problem01. FormattingC\obj\Debug\Problem01.FormattingC.exe
+D:\Telerik Academy Courses\KPK\Homeworks\Homework1\Problem01. FormattingC\obj\Debug\Problem01.FormattingC.pdb

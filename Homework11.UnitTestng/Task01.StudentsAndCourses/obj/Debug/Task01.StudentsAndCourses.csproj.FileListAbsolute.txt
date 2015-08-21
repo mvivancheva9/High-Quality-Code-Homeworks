@@ -1,0 +1,6 @@
+D:\Telerik Academy Courses\KPK\Homeworks\Homework11.UnitTestng\Task01.StudentsAndCourses\bin\Debug\Task01.StudentsAndCourses.exe.config
+D:\Telerik Academy Courses\KPK\Homeworks\Homework11.UnitTestng\Task01.StudentsAndCourses\obj\Debug\Task01.StudentsAndCourses.csprojResolveAssemblyReference.cache
+D:\Telerik Academy Courses\KPK\Homeworks\Homework11.UnitTestng\Task01.StudentsAndCourses\bin\Debug\Task01.StudentsAndCourses.exe
+D:\Telerik Academy Courses\KPK\Homeworks\Homework11.UnitTestng\Task01.StudentsAndCourses\bin\Debug\Task01.StudentsAndCourses.pdb
+D:\Telerik Academy Courses\KPK\Homeworks\Homework11.UnitTestng\Task01.StudentsAndCourses\obj\Debug\Task01.StudentsAndCourses.exe
+D:\Telerik Academy Courses\KPK\Homeworks\Homework11.UnitTestng\Task01.StudentsAndCourses\obj\Debug\Task01.StudentsAndCourses.pdb

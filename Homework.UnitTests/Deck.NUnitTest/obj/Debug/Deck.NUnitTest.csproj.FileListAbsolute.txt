@@ -1,0 +1,9 @@
+D:\Telerik Academy Courses\KPK\Homeworks\Homework.UnitTests\Deck.NUnitTest\obj\Debug\Deck.NUnitTest.csprojResolveAssemblyReference.cache
+D:\Telerik Academy Courses\KPK\Homeworks\Homework.UnitTests\Deck.NUnitTest\bin\Debug\Deck.NUnitTest.dll
+D:\Telerik Academy Courses\KPK\Homeworks\Homework.UnitTests\Deck.NUnitTest\bin\Debug\Deck.NUnitTest.pdb
+D:\Telerik Academy Courses\KPK\Homeworks\Homework.UnitTests\Deck.NUnitTest\bin\Debug\nunit.framework.dll
+D:\Telerik Academy Courses\KPK\Homeworks\Homework.UnitTests\Deck.NUnitTest\bin\Debug\Santase.Logic.dll
+D:\Telerik Academy Courses\KPK\Homeworks\Homework.UnitTests\Deck.NUnitTest\bin\Debug\Santase.Logic.pdb
+D:\Telerik Academy Courses\KPK\Homeworks\Homework.UnitTests\Deck.NUnitTest\bin\Debug\nunit.framework.xml
+D:\Telerik Academy Courses\KPK\Homeworks\Homework.UnitTests\Deck.NUnitTest\obj\Debug\Deck.NUnitTest.dll
+D:\Telerik Academy Courses\KPK\Homeworks\Homework.UnitTests\Deck.NUnitTest\obj\Debug\Deck.NUnitTest.pdb

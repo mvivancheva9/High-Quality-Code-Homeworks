@@ -1,0 +1,5 @@
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

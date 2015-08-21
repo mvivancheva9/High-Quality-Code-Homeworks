@@ -1,0 +1,6 @@
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Methods\Problem01. Quality Methods\bin\Debug\Problem01.Quality_Methods.exe.config
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Methods\Problem01. Quality Methods\bin\Debug\Problem01.Quality_Methods.exe
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Methods\Problem01. Quality Methods\bin\Debug\Problem01.Quality_Methods.pdb
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Methods\Problem01. Quality Methods\obj\Debug\Problem01. Quality Methods.csprojResolveAssemblyReference.cache
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Methods\Problem01. Quality Methods\obj\Debug\Problem01.Quality_Methods.exe
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. Methods\Problem01. Quality Methods\obj\Debug\Problem01.Quality_Methods.pdb

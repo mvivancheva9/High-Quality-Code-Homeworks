@@ -1,0 +1,6 @@
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. DevelopmentTools\DevelopmentTools\Log4Net\bin\Debug\Log4Net.dll
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. DevelopmentTools\DevelopmentTools\Log4Net\bin\Debug\Log4Net.pdb
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. DevelopmentTools\DevelopmentTools\Log4Net\bin\Debug\log4net.xml
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. DevelopmentTools\DevelopmentTools\Log4Net\obj\Debug\Log4Net.csprojResolveAssemblyReference.cache
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. DevelopmentTools\DevelopmentTools\Log4Net\obj\Debug\Log4Net.dll
+D:\Telerik Academy Courses\KPK\Homeworks\Homework. DevelopmentTools\DevelopmentTools\Log4Net\obj\Debug\Log4Net.pdb

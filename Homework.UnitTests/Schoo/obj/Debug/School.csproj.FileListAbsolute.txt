@@ -1,0 +1,4 @@
+D:\Telerik Academy Courses\KPK\Homeworks\Homework.UnitTests\Schoo\bin\Debug\Schoo.dll
+D:\Telerik Academy Courses\KPK\Homeworks\Homework.UnitTests\Schoo\bin\Debug\Schoo.pdb
+D:\Telerik Academy Courses\KPK\Homeworks\Homework.UnitTests\Schoo\obj\Debug\Schoo.dll
+D:\Telerik Academy Courses\KPK\Homeworks\Homework.UnitTests\Schoo\obj\Debug\Schoo.pdb
